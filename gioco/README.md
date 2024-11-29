@@ -1,6 +1,6 @@
-# Entanglion Rule Book
+# Regolamento di Entanglion
 
-> AUn gioco creato dalla IBM Research
+> Un gioco creato dalla IBM Research
 
 **2 GIOCATORI |  ETÀ 14 & OLTRE | ~45 MINUTI**
 
@@ -27,7 +27,7 @@ Pensi di essere pronto alla sfida?
 Entanglion è un gioco cooperativo pensato per due giocatori. L’obiettivo finale è ricostruire un computer quantistico sviluppato da un’antica popolazione. Lavora insieme al tuo compagno per navigare le tre galassie dell’universo quantistico - Centarious, Superious e Entanglion - in una missione per collezionare tutti e otto i componenti quantistici. 
 Fai attenzione ad evitare di essere individuato dai meccanismi di difesa planetaria a guardia dei componenti!
 
-# Game concepts
+# Concetti di gioco
 Entanglion è stato pensato per esporre i giocatori a diversi concetti fondamentali nel quantum computing: 
 
 - **Qubits** sono gli elementi fondamentali della computazione quantistica.

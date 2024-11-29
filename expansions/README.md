@@ -11,4 +11,4 @@ Creating an expansion to Entanglion can be a fun, challenging, and rewarding exp
 3. Keep in mind that some players may be color blind. Test your colors using a color blindness simulator such as [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/).
 
 ## Community expansions
-_Be the first to have your expansion listed here!_
+_The original game expansions are available in the orginal game repository! This is just a copy_

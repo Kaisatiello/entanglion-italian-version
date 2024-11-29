@@ -1,6 +1,6 @@
 # Entanglion
 
-> Un gioco creato dalla IBM Research
+> Un gioco creato dalla IBM Research : [repository originale](https://github.com/Entanglion/entanglion/tree/main)
 
 > Nota: Questa è la repository relativa alla traduzione italiana effettuata da me: Eleonora Ballarini, tutti i diritti e le immagini originali del gioco appartengono all'IBM Research che io non rappresento in alcun modo ne vi sono collegata!
 

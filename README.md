@@ -25,7 +25,7 @@ Vuoi saperne di più? Leggi l'intera storia di Entanglion qui, [Il misterioso de
 ## Assemblare Entanglion
 Entanglion è un progetto open source e puoi creare la tua copia personale del gioco scaricando e stampando i componenti
 
-🚀 **[Guida a Stampa ed Assemblaggio di Entanglion](assets)**
+🚀 **[Guida a Stampa ed Assemblaggio di Entanglion](componenti)**
 
 <img src="images/board.png" width="85%" />
 

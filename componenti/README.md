@@ -47,7 +47,7 @@ Sono inclusi alcuni modelli 3D, alcuni dei quali rimpiazzano i modelli cartacei 
 
 > Se non hai a disposizione una stampante 3D, puoi compare questi dadi su Amazon, seguono link della versione in inglese, ([Centarious binary d6](http://a.co/0cW7fsG), [Entanglion d8](http://a.co/aNyVaz9)), o riutilizzare dei dadi appropriati da altri giochi.
 
-### Rule Book
+### Regolamento
 Al momento nella vesione orginale è disponibile solo un file pdf del regolamento, la parte seguente in inglese che non ho tradotto fa riferimento al regolamento orginale. We have included the full-color version of the rule book in the game assets. However, it is possible that we may update the rules based on community feedback. The authoritative source of Entanglion rules will be maintained in the [online rulebook](../game), and any errata or rule clarifcations will be documented on the [errata page](../game/Errata.md).
 
 ## Step 4. È il Momento di Giocare! 🚀
